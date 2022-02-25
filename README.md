@@ -1,5 +1,6 @@
 # A Searchable app using flutter_slidable package
 ## Preview
+![Untitled Project](https://user-images.githubusercontent.com/91388754/155765527-9cd0ad94-5f19-4814-ab70-b03edf765db8.gif)
 
 # ⚠️ Essential Packages 
 * day_night_switcher: ^0.2.0+1
