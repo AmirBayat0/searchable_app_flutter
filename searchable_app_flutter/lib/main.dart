@@ -37,9 +37,9 @@ class _UserScreenState extends State<UserScreen> {
   void initState() {
     super.initState();
 
-    setState(() {
+    
       _foundedUsers = listOfUsers;
-    });
+    
   }
 
   onSearch(String search) {
