@@ -3,7 +3,7 @@
 ![Untitled Project](https://user-images.githubusercontent.com/91388754/155765527-9cd0ad94-5f19-4814-ab70-b03edf765db8.gif)
 
 # ⚠️ Essential Packages 
-* day_night_switcher: ^0.2.0+1
+* flutter_slidable: ^0.6.0: 
 * simple_animations: ^4.0.1
 * supercharged: ^2.1.1
 ## Links
